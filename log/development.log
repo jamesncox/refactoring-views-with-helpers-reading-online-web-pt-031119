@@ -39,3 +39,6 @@ Cannot render console from 98.211.25.80! Allowed networks: 127.0.0.1, ::1, 127.0
 Processing by PostsController#new as HTML
   Rendering posts/new.html.erb within layouts/application
   Rendered posts/new.html.erb within layouts/application (13.5ms)
+Completed 200 OK in 372ms (Views: 362.9ms | ActiveRecord: 0.6ms)
+
+
