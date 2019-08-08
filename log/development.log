@@ -34,3 +34,8 @@ Processing by Rails::WelcomeController#index as HTML
 Completed 200 OK in 17ms (Views: 7.0ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/posts/new" for 98.211.25.80 at 2019-08-08 15:51:19 +0000
+Cannot render console from 98.211.25.80! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#new as HTML
+  Rendering posts/new.html.erb within layouts/application
+  Rendered posts/new.html.erb within layouts/application (13.5ms)
